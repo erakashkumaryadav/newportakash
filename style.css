@@ -1,5 +1,133 @@
 *{
-    font-family: 'Poppins', sans-serif;
     margin: 0%;
     padding: 0%;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.backgroundblack{
+    
+    color:black;
+}
+
+.sectionsecondh2tag{
+text-align: center;
+text-decoration: underline;
+margin-top: 11rem;
+color: black;
+
+}
+
+.sectionsecondhptag{
+    text-align: justify;
+    color: black;
+}
+
+
+.backai{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+   
+}
+.trybutton{
+    padding: 5px;
+    text-align: center;
+}
+.trybutton a{
+    text-decoration: none;
+    color: black;
+}
+
+.sectionthree{
+  
+    color: black;
+    text-align: justify;
+}
+.threesection{
+    text-align: center;
+    text-decoration: underline;
+    color: black;
+}
+.text{
+    text-align: center;
+    text-decoration: underline;
+   
+}
+.text p{
+    text-align: justify;
+}
+.sectionfive{
+    color: black;
+}
+
+.Mainfooter{
+   
+    color: black;
+    text-align: center;
+}
+
+.footer{
+    
+    text-align: center;
+    padding: 7px;
+    color: black;
+}
+
+.card2{
+    margin-left: 55px;
+}
+.card3{
+    margin-left: 95px;
+}
+
+.sectionsecondhptag{
+    background-color: #574b90;
+    padding: 15px;
+    border-radius: 5px;
+    color: white;
+    
+}
+
+.textdec{
+    text-align: center;
+}
+.mob{
+    text-align: center;
+    background-color: #574b90;
+    padding: 15px;
+    color: white;
+    border-radius: 55px;
+}
+.aboutp{
+    text-align: justify;
+    background-color: #574b90;
+    padding: 15px;
+    color: white;
+    border-radius: 10px;
+    
+}
+.lastnav{
+    text-align: center;
+    text-decoration: none;
+}
+
+.social{
+    text-align: center;
+    text-decoration: none;
+}
+.sectionfooter{
+    padding: 10px;
+}
+.socialmidea{
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.lastnavs{
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.link{
+    text-decoration: underline;
 }
